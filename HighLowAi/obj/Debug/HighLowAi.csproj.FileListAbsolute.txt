@@ -1,0 +1,7 @@
+C:\Users\rl146129\Desktop\C-Sharp-Projects\HighLowAi\HighLowAi\obj\Debug\HighLowAi.csprojAssemblyReference.cache
+C:\Users\rl146129\Desktop\C-Sharp-Projects\HighLowAi\HighLowAi\obj\Debug\HighLowAi.csproj.CoreCompileInputs.cache
+C:\Users\rl146129\Desktop\C-Sharp-Projects\HighLowAi\HighLowAi\bin\Debug\HighLowAi.exe.config
+C:\Users\rl146129\Desktop\C-Sharp-Projects\HighLowAi\HighLowAi\bin\Debug\HighLowAi.exe
+C:\Users\rl146129\Desktop\C-Sharp-Projects\HighLowAi\HighLowAi\bin\Debug\HighLowAi.pdb
+C:\Users\rl146129\Desktop\C-Sharp-Projects\HighLowAi\HighLowAi\obj\Debug\HighLowAi.exe
+C:\Users\rl146129\Desktop\C-Sharp-Projects\HighLowAi\HighLowAi\obj\Debug\HighLowAi.pdb
